@@ -1,3 +1,3 @@
 # latihan-branch
 
-mari kita coba yah
+Kita coba semaksimal mungkin yah
