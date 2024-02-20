@@ -1,3 +1,2 @@
 # latihan-branch
-
-Kita coba semaksimal mungkin yah
+Belajar Github di dicoding 
