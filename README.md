@@ -1,3 +1,2 @@
 # latihan-branch
-
-mari kita coba yah
+Github itu asyik loh
